@@ -29,9 +29,6 @@ Feel free to customize the Purple Vision theme to your liking. You can modify th
 
 Contributions to the Purple Vision theme are welcome! If you have any improvements, bug fixes, or new feature suggestions, please open an issue or submit a pull request. Let's collaborate to make the theme even better!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE), allowing you to use, modify, and distribute the theme. However, please note that this theme is provided as-is, and the developers are not responsible for any issues or consequences that may arise from its usage.
 
 ## Screenshots
 
