@@ -1,0 +1,79 @@
+/* Purple Vision Discord Theme */
+
+/* Background color */
+:root {
+    --background-primary: #3d1b5c;
+    --background-secondary: #4e2775;
+}
+
+/* Text color */
+:root {
+    --text-normal: #ffffff;
+    --text-muted: #a9a9a9;
+}
+
+/* Accent color */
+:root {
+    --brand-experiment: #9d65b7;
+}
+
+/* Channel and member list */
+.channel-members {
+    background-color: var(--background-primary);
+    color: var(--text-normal);
+}
+
+/* Chat area */
+.content-yTz4x3 {
+    background-color: var(--background-secondary);
+    color: var(--text-normal);
+}
+
+/* Server list */
+.guilds-1SWlCJ {
+    background-color: var(--background-primary);
+}
+
+/* Server name */
+.guild-1EfMGQ .wrapper-1BJsBx {
+    color: var(--text-normal);
+}
+
+/* Server icons */
+.wrapper-1BJsBx .iconWrapper-2OrFZ1 {
+    background-color: var(--background-secondary);
+}
+
+/* Server unread indicator */
+.unread-1x1W4w {
+    background-color: var(--brand-experiment);
+}
+
+/* Channel name */
+.channel-2QD9_O .name-3_Dsmg {
+    color: var(--text-normal);
+}
+
+/* Channel topic */
+.channel-2QD9_O .topic-TCb_qw {
+    color: var(--text-muted);
+}
+
+/* Message bubbles */
+.containerCozy-3KxKjL {
+    background-color: var(--background-secondary);
+}
+
+/* Message text */
+.messageContent-2qWWxC .markup-2BOw-j {
+    color: var(--text-normal);
+}
+
+/* User join/leave messages */
+.containerCompactEmpty-3mMk65,
+.containerCozyEmpty-3V3Q4z {
+    background-color: var(--background-primary);
+    color: var(--text-muted);
+}
+
+
